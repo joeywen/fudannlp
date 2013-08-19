@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="apps"/>
+	<classpathentry kind="src" path="example"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/trove.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
